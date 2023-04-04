@@ -17,3 +17,5 @@ Sample Response:
         "price": "INR 65000",
         "location": "New Delhi"
     }
+
+API Endpoint: https://plain-colt-bikini.cyclic.app/api/data
